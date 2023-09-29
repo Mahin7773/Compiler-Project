@@ -1,0 +1,53 @@
+Header file section
+Header file section
+Comment Section
+Variable Declared
+Value of the variable= 1	
+Value of the variable= 10	
+Value of the variable= 11	
+Value of the variable= 12	
+
+1 is prime
+GCD of 10 and 11 = 1
+LCM of 1 and 11 = 11
+Value Output 12
+Value of root=2.0000
+The fibonacci series is= 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 
+Comment Section
+
+The value of expression in hoy: 1
+Comment Section
+
+The value of expression in hoy: 9
+Comment Section
+The value of expression= -1
+value of the FOR: 3 expression value: -1
+value of the FOR: 4 expression value: -1
+value of the FOR: 5 expression value: -1
+value of the FOR: 6 expression value: -1
+value of the FOR: 7 expression value: -1
+value of the FOR: 8 expression value: -1
+value of the FOR: 9 expression value: -1
+value of the FOR: 10 expression value: -1
+value of the FOR: 11 expression value: -1
+Comment Section
+Default Case executed and the expression value=15
+Comment Section
+Value of the variable= 12	
+value of the while : 6
+value of the while : 7
+value of the while : 8
+Value Output 13
+Value Output 12
+Value Output 36
+Value Output 16
+
+The value of sin(100) is: 0.98
+ 
+The value of cos(20) is: 0.94
+
+The value of tan(50) is: 1.19
+
+Value of log10(100) is 2.000000
+
+Value of natural log, ln(2000) is 7.600902

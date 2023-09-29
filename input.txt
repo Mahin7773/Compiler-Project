@@ -1,0 +1,74 @@
+#insert  math.h
+#insert string.h
+
+master()
+<
+	!!comment section
+   	NUMBER a,b,c,d;
+   	a EQUALS 1;
+   	b EQUALS 10;
+   	c EQUALS 11;
+	d EQUALS 12;
+   	PRIME(a);
+   	GCD(b,c);
+   	LCM(a,c);
+   	OUT(d);
+	ROOT(4);
+   	FIB(15);
+   
+   	!!if condition
+   	HOY(c IGT b)
+   	<
+    	c SUB b;
+   	>
+
+   	!!if-else condition
+   	HOY(b IGT a)
+   	<
+     	b SUB a;
+   	>
+   	NAHOLE
+   	<
+      	a SUB b;
+   	>
+	
+   	!!for loop
+   	JODI(a EQUALS 3; a ILT c)
+   	<
+     	7 SUB 8;
+   	>
+   
+	!!switch case
+   	SHIFT ( 2 )
+	<
+	VALUE 1 :
+		a ADD b; END;
+    	;
+	VALUE 2 :
+		b ADD c; END;
+	;
+	VALUE 3 :
+		a ADD c; END;
+	DEFAULT :
+		c ADD 4; END;
+	>
+   
+	!!while loop
+	JOKHON (6 ILT 8)
+	< 
+	  	c EQUALS c ADD 1;
+	>
+	 
+	d INC;
+	OUT(d);
+	d DEC;
+	OUT(d);
+	OUT(4 MUL 9);
+	OUT(4 ^ 2);
+
+	SIN(100);
+	COS(20);
+	TAN(50);
+	LOG(100);
+	LN(2000);
+>
